@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and IA
 - 🌱 I’m currently learning Neural Networks, Deep Reinforcement Learning
 - 💞️ I’m looking to collaborate on defying projects that generate real products
-- 📫 You can reach me by my linkedIn page ->
+- 📫 You can reach me by my linkedIn page -> [LinkedIn](https://www.linkedin.com/in/leticia-campos-valente/).
 
 <!---
 leticiacamposv/leticiacamposv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
