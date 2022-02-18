@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @leticiacamposv
-- 👀 I’m interested in Data Science, Machine Learning and IA
-- 🌱 I’m currently learning Neural Networks, Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on defying projects that generate real products and present myself by my code
-- 📫 You can reach me by my linkedIn page -> [LinkedIn](https://www.linkedin.com/in/leticia-campos-valente/).
-
 <!---
 leticiacamposv/leticiacamposv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ### "O conhecimento é a única coisa que ninguém pode tirar de você." - Albert Einstein
+
+Me chamo Leticia Campos e meus campos profissionais e de interesse são Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente estou aprendendo redes neurais, aprendizado por reforço e NLP
 
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-campos-valente//)](https://www.linkedin.com/in/leticia-campos-valente/)
