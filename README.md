@@ -44,3 +44,9 @@ Me chamo Leticia Campos e meus campos profissionais e de interesse são Ciência
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)\
 +Matlab
+
+## Estatísticas
+
+<a href="https://github.com/leticiacamposv">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacamposv&layout=compact&langs_count=8&theme=dark"/>
+</a>
