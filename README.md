@@ -28,6 +28,7 @@ Me chamo Leticia Campos e meus campos profissionais e de interesse são Ciência
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)\
 +Tableau e Looker
+Streamlit
 
 ## Python Data Science (Mais usados)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
