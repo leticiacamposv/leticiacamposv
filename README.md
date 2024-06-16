@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### "O conhecimento é a única coisa que ninguém pode tirar de você." - Albert Einstein
 
-Me chamo Leticia Campos e meus campos profissionais e de interesse são Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente estou aprendendo redes neurais, aprendizado por reforço e NLP
+Me chamo Leticia Campos e meus campos profissionais e de interesse são Ciência de Dados e Engenharia de Machine Learning. Atualmente estudando MLOps, LLM e LLMOPs
 
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-campos-valente//)](https://www.linkedin.com/in/leticia-campos-valente/)
